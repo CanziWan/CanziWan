@@ -1,5 +1,5 @@
 ### Hi 👋
-I am a self-taught backend developer from China.
+I am a master student from China.
 
 <!--
 **CanziWan/CanziWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
