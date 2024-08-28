@@ -1,6 +1,6 @@
 ### Hi 👋
-I am a master student from China.
-Coding changes the world! :technologist:t2:
+- I am a master student from China.
+- Coding changes the world! :technologist:
 
 <!--
 **CanziWan/CanziWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
